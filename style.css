@@ -1,0 +1,24 @@
+p{
+    color: brown;
+    text-transform: uppercase;
+    text-align: center;
+}
+li{
+    color: black;
+    text-align: center;
+}
+.Navbar-text{
+    color: blue;
+}
+#Navbar{
+    background-color: aqua;
+}
+#Jumbotron{
+    background-color: beige;
+}
+#Footer{
+    background-color: burlywood;
+}
+#OL{
+    background-color: aquamarine;
+}
